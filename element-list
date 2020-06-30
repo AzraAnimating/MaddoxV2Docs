@@ -2,9 +2,14 @@ com.zyonicsoftware.maddox.config
 com.zyonicsoftware.maddox.core.engine.handling.command
 com.zyonicsoftware.maddox.core.engine.handling.privatemessage
 com.zyonicsoftware.maddox.core.engine.handling.thread
+com.zyonicsoftware.maddox.core.engine.helpbuilder
+com.zyonicsoftware.maddox.core.engine.objects
 com.zyonicsoftware.maddox.core.engine.util
+com.zyonicsoftware.maddox.core.language
 com.zyonicsoftware.maddox.core.main
 com.zyonicsoftware.maddox.core.management
 com.zyonicsoftware.maddox.core.mysql
 com.zyonicsoftware.maddox.core.startup
+com.zyonicsoftware.maddox.modules.command.information
+com.zyonicsoftware.maddox.modules.command.settings
 com.zyonicsoftware.maddox.modules.listener
