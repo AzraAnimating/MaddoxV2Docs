@@ -8,8 +8,12 @@ com.zyonicsoftware.maddox.core.engine.util
 com.zyonicsoftware.maddox.core.language
 com.zyonicsoftware.maddox.core.main
 com.zyonicsoftware.maddox.core.management
-com.zyonicsoftware.maddox.core.mysql
+com.zyonicsoftware.maddox.core.savestructure
 com.zyonicsoftware.maddox.core.startup
 com.zyonicsoftware.maddox.modules.command.information
-com.zyonicsoftware.maddox.modules.command.settings
+com.zyonicsoftware.maddox.modules.command.moderation
+com.zyonicsoftware.maddox.modules.command.settings.messages
+com.zyonicsoftware.maddox.modules.command.settings.system
+com.zyonicsoftware.maddox.modules.command.sysadmin
 com.zyonicsoftware.maddox.modules.listener
+com.zyonicsoftware.maddox.modules.registration
